@@ -26,6 +26,7 @@ description: A virtual proof that I'm awesome.
 navbar-links:
   Blog: ""
   About: "about"
+  Getting Started: "getstarted"
   Tags: "https://mkulbida.github.io/tags/"
   # Website: "https://melyanna.net/"
   Subscribe: "subscribe"
