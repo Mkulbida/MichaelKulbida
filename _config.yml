@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 
-url: "https://melyanna.github.io"
+url: "https://michaelkulbida.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -15,10 +15,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Tea time
+title: Mike's Github Site
 
 # Short description of your site
-description: Blog, scrapbook, and virtual space for my experiments.
+description: A virtual proof that I'm awesome.
 
 # --- Navigation bar options --- #
 
@@ -26,7 +26,7 @@ description: Blog, scrapbook, and virtual space for my experiments.
 navbar-links:
   Blog: ""
   About: "about"
-  Tags: "https://melyanna.github.io/tags/"
+  Tags: "https://mkulbida.github.io/tags/"
   # Website: "https://melyanna.net/"
   Subscribe: "subscribe"
   Search: "search"
@@ -65,7 +65,7 @@ page-img: "/img/bg/noise.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Melyanna
+  name: Mike
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -73,21 +73,21 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "melyanna@tutanota.com"
-#  facebook: daattali
-  github: melyanna
-  twitter: OoMelyannaoO
-#  reddit: yourname
-#  google-plus: +DeanAttali
-#  linkedin: daattali
+  email: " "
+#  facebook: " "
+  github: mkulbida
+  twitter: " "
+#  reddit: " "
+#  google-plus: " "
+#  linkedin: " "
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  telephone: 
+#  steam: 
 #  twitch: yourname
 #  yelp: yourname
 
@@ -100,7 +100,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "melyanna.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "michaelkulbida.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -126,7 +126,7 @@ url-pretty: "melyanna.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 
-disqus: "melyannagithubio"
+# disqus: "melyannagithubio"
 
 
 # To use Facebook Comments, fill in a Facebook App ID
